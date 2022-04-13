@@ -16,7 +16,7 @@ Yash Mehta (ymehta3) yash_b_mehta@brown.edu
 
 ## Introduction
 
-####What problem are you trying to solve and why?
+#### What problem are you trying to solve and why?
 
 The goal of our project is to develop a deep reinforcement model to play the Atari 2000 River Raid.
 
