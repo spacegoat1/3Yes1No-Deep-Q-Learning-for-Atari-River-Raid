@@ -1,6 +1,6 @@
 # Deep Q Learning for Atari River Raid 
 
-
+![plot](https://github.com/7ericany/3Yes1No-Deep-Q-Learning-for-Atari-River-Raid/blob/main/poster/2470%20Final%20Project%20Poster.png)
 
 ## Group members
 
