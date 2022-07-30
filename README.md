@@ -20,6 +20,7 @@ In the past couple years, through deep reinforcement learning, artificial agents
 
 In this project, we first started with a vanilla DQN in combination with a convolutional neural network. To improve the training accuracy and stability, we applied two strategies: fixed Q-targets and replay memory mechanism. Fixed Q-targets handle the oscillation in training due to shifting Q target values. Replay memory is to break the correlation between consecutive samples of experience in the environment that could lead to inefficient learning. River Raid is a complex game with 18 actions. Our goal was to train the agent to outperform the random model and to achieve human-level performance. With the optimization techniques and given enough training time, we hope the agent can outperform our team members. 
 
+We used the OpenAI Gym environment to simulate the game and used Keras to build the DQN. Since training was computationally expensive, we trained the model on a GCP Deep Learning VM. 
 
 ## Results
 ### Game Recordings
